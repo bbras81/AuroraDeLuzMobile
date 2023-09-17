@@ -1,7 +1,15 @@
-.logo{
-    margin-left: 100%;
+:root{
+    --cor00:#D099D4;
+    --cor001:#FCD1FF;
+    --cor002:#845487;
+    --cor003:#628746;
+    --cor004:#B2D498;
+    --cor005:rgb(116, 114, 114);
 }
 
-.navbar-brand{
-    
+
+.logo{
+    display: flex;
+    justify-content:center;
 }
+
